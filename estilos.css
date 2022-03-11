@@ -13,6 +13,7 @@ html, body {
 .encabezado {
 	display: flex;
 	background-color: rgb(31, 78, 120);
+	padding-left: 10px;
 }
 
 .nombre {
@@ -47,7 +48,6 @@ html, body {
 	font-size: 20px;
 	padding: 10px;
 	background-color: #DDEBF7;
-	padding-top: 100px;
 }
 
 

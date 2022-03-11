@@ -13,10 +13,6 @@ html, body {
 .encabezado {
 	display: flex;
 	background-color: rgb(31, 78, 120);
-	position: fixed;
-	right: 0;
-	left: 0;
-	top: 0;
 }
 
 .nombre {

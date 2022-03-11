@@ -42,6 +42,8 @@ html, body {
 .redes {
 	margin-right: 15px;
 	color: white;
+	flex-direction: row;
+	display: flex;
 }
 
 .presentación p {
